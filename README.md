@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [Building My Portfolio](https://github.com/muazahmadma/Portfolio_Website)
 
-- 🤝 I’m looking for help with [Python for DevOps Repository](https://github.com/muazahmadma/3-Tier-application-on-AWS-ECS-with-Terraform)
+- 🤝 I’m looking for help with [ECS with Terraform Repository](https://github.com/muazahmadma/3-Tier-application-on-AWS-ECS-with-Terraform)
 
 - 📫 How to reach me **muazkhan098@gmail.com**
 
